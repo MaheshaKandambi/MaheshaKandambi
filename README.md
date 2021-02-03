@@ -30,9 +30,7 @@
 </p>
 
 ### Follow me on:
-<a href="linkedin.com/in/mahesha-kandambi-b91048199/">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br><br><br>
+<a href="linkedin.com/in/mahesha-kandambi-b91048199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahesha-kandambi-b91048199" height="30" width="40" /></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaheshaKandambi.MaheshaKandambi)
 

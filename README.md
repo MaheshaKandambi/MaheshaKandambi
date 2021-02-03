@@ -8,6 +8,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshaKandambi)](https://github.com/MaheshaKandambi/github-readme-stats)
 
+### Languages & Tools
+
+
+### Follow me on:
+- [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/mahesha-kandambi-b91048199/)
+
+- 
 

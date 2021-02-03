@@ -13,7 +13,6 @@
 
 
 ### Follow me on:
-- [![LinkedIn](https://raw.githubusercontent.com/Mahesha Kandambi/Mahesha Kandambi/master/soc/li.svg)](https://www.linkedin.com/in/mahesha-kandambi-b91048199/)
+[![LinkedIn](https://raw.githubusercontent.com/MaheshaKandambi/praveenscience/master/soc/li.svg)](linkedin.com/in/mahesha-kandambi-b91048199/)
 
-- 
 

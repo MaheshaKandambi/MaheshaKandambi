@@ -31,7 +31,7 @@
 ### Follow me on:
 <a href="nkedin.com/in/mahesha-kandambi-b91048199/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br>
+</a><br><br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaheshaKandambi.MaheshaKandambi)
 

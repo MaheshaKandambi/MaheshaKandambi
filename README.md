@@ -5,7 +5,9 @@
 - ⚡ I'm interesting in creating handmade designs.
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=MaheshaKandambi.MaheshaKandambi)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=algolia)
 
 ### Languages and Tools:

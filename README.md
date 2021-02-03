@@ -7,6 +7,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaheshaKandambi.MaheshaKandambi)
 
+### Follow me on:
+<a href="nkedin.com/in/mahesha-kandambi-b91048199/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=algolia)
 

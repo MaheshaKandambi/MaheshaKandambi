@@ -13,6 +13,6 @@
 
 
 ### Follow me on:
-[![LinkedIn](https://raw.githubusercontent.com/Mahesha Kandambi/praveenscience/master/soc/li.svg)](linkedin.com/in/mahesha-kandambi-b91048199/)
+https://img.shields.io/badge/linkedin.com/in/mahesha-kandambi-b91048199/.svg?&style=for-the-badge&logo=linkedin)
 
 

@@ -6,7 +6,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=algolia)
 
 ### Languages and Tools:
 <p>

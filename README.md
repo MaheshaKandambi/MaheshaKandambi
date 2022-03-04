@@ -35,7 +35,7 @@
 </p>
 
 ### Follow me on:
-<a href="https://linkedin.com/in/mahesha-kandambi-b91048199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahesha-kandambi-b91048199" height="25" /></a>
+<a href="https://www.linkedin.com/in/mahesha-kandambi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahesha-kandambi-b91048199" height="25" /></a>
 
 
 

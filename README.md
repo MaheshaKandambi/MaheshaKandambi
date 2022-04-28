@@ -4,8 +4,8 @@
 - 😄 I love work with team.
 - ⚡ I'm interesting in creating handmade designs.
 
- - I'm a 3rd year undergraduate of the department of Computing and Information Systems, Faculty of Applied Sciences, 
-   Sabaragamuwa University of Sri Lanka. I'm hardworking and ambitious with a great passion for the IT industry.                                            A highly motivated individual with exceptional skills seeking an internship in Computer Science, coming with the ability to work with modern technology.
+### I'm a 3rd year undergraduate of the department of Computing and Information Systems, Faculty of Applied Sciences, 
+   ### Sabaragamuwa University of Sri Lanka. I'm hardworking and ambitious with a great passion for the IT industry.                                            A highly motivated individual with exceptional skills seeking an internship in Computer Science, coming with the ability to work with modern technology.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshaKandambi&show_icons=true&theme=algolia)

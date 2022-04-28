@@ -43,5 +43,5 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshaKandambi&layout=compact&langs_count=12)](https://github.com/MaheshaKandambi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshaKandambi&layout=compact&langs_count=12&theme=gruvbox_light)](https://github.com/MaheshaKandambi/github-readme-stats)
 

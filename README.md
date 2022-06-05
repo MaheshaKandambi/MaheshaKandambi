@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Mahesha Kandambi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="2px">
+### 👋 Hello, I'm Mahesha Kandambi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
 <a href="https://www.linkedin.com/in/mahesha-kandambi/"> 
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

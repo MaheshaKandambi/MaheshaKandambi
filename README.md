@@ -11,7 +11,7 @@
 ---- 
  
 
-- 🧑‍💻 I'm a 3rd year undergraduate in the department of Computing and Information Systems, Faculty of Applied Sciences,Sabaragamuwa University of Sri Lanka.
+- 🧑‍💻 I'm a 3rd year undergraduate in the department of Computing and Information Systems, Faculty of Applied Sciences,<a href="https://www.sab.ac.lk/">
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
 - 😄 I love work with team.

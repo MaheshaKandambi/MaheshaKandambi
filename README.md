@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Mahesha Kandambi!
-
+Connect with me 👇
 <a href="https://www.linkedin.com/in/mahesha-kandambi/"> 
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +12,7 @@
  
 
 - 🧑‍💻 I'm an undergraduate of the Computing and Information Systems, Faculty of Applied Sciences, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>
+- 👩‍💻 I’m currently working as a Software Quality Assurance Intern
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
 - 😄 I love work with team.

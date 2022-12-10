@@ -13,7 +13,7 @@
  
 
 - 🧑‍💻 I'm an undergraduate of the Computing and Information Systems, Faculty of Applied Sciences, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>
-- 👩‍💻 I’m currently working as a Software Quality Assurance Intern
+- 👩‍💻 I’m currently working as a Software Quality Assurance Engineer Intern
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
 - 😄 I love work with team.

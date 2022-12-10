@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Mahesha Kandambi! 
+### 👋 Hello, I'm Mahesha Kandambi ! 
 
 ### Connect with me 👇
 <a href="https://stackoverflow.com/users/17033119/mahesha-kandambi"> 

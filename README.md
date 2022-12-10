@@ -1,8 +1,8 @@
 ### 👋 Hello, I'm Mahesha Kandambi! 
 
 ### Connect with me 👇
-<a href="[https://www.linkedin.com/in/mahesha-kandambi/](https://stackoverflow.com/users/17033119/mahesha-kandambi)"> 
-<img align="left" alt="Stack Overflow width="22px" src="![image](https://user-images.githubusercontent.com/58287739/206827650-e0996ba8-7868-46dd-9c98-f524daf22a20.png)" />
+<a href="https://stackoverflow.com/users/17033119/mahesha-kandambi"> 
+<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mahesha-kandambi/"> 
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

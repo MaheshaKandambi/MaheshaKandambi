@@ -15,8 +15,8 @@
 ---- 
  
 
-- 🧑‍💻 I'm an undergraduate of the <a href="https://www.sab.ac.lk/app/cis">Computing and Information Systems</a>, <a href="https://www.sab.ac.lk/app/"> Faculty of Applied Sciences</a>, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>
-- 👩‍💻 I’m currently working as a <b>Software Quality Assurance Engineer Intern </b> at <a href="https://www.intervest.lk/">Intervest Software Technologies (Private) Limited</a>
+- 🧑‍💻 I'm an undergraduate of the <a href="https://www.sab.ac.lk/app/cis">Computing and Information Systems</a>, <a href="https://www.sab.ac.lk/app/"> Faculty of Applied Sciences</a>, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.
+- 👩‍💻 I’m currently working as a <b>Software Quality Assurance Engineer Intern </b> at <a href="https://www.intervest.lk/">Intervest Software Technologies (Private) Limited</a>.
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
 - 😄 I love work with team.

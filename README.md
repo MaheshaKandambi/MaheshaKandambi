@@ -41,7 +41,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"></code></br></br>
 <code><img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/browserstack-005571?style=for-the-badge&logo=browser-stack&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/browserstack-005590?style=for-the-badge&logo=browser-stack&logoColor=white"></code>
 
 
 

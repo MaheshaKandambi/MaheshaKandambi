@@ -15,7 +15,7 @@
 ---- 
 
 - 🧑‍💻 I'm a graduate of the <a href="https://www.sab.ac.lk/app/cis">Computing and Information Systems</a>, <a href="https://www.sab.ac.lk/app/"> Faculty of Computing</a>, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.
-- 👩‍💻 I’m currently working as an <b>Associate Software Quality Assurance Engineer</b> at <a href="https://codeaisys.com/">CodeAIsys IT Solutions</a>.
+- 👩‍💻 I’m a former intern as a quality assurance engineer at Intervest Software Technologies
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
 - 😄 I love work with team.

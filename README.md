@@ -14,12 +14,13 @@
 
 ---- 
 
-- 🧑‍💻 I'm a graduate of the <a href="https://www.sab.ac.lk/app/cis">Computing and Information Systems</a>, <a href="https://www.sab.ac.lk/app/"> Faculty of Computing</a>, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.
+- 🧑‍💻 I'm a graduate of the <a href="https://www.sab.ac.lk/app/cis">BSc. (Honours) Computing and Information Systems</a>, <a href="https://www.sab.ac.lk/app/"> Faculty of Computing</a>, <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.
+- 👩‍💻 I'm currently working as an associate software quality assurance engineer at <a href="https://intellistrata.com.au/"> Intellistrata</a>
 - 👩‍💻 I’m a former intern as a quality assurance engineer at Intervest Software Technologies
 - 🌱 I’m currently learning languages.
 - 💪 I'm hardworking and ambitious with a great passion for the IT industry
-- 😄 I love work with team.
-- ⚡ I'm interesting in creating handmade designs.
+- 😄 I love working with the team.
+- ⚡ I'm interested in creating handmade designs.
 
 ----
 
